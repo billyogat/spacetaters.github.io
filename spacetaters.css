@@ -1,0 +1,20 @@
+body {
+    background: black url("tater.png") no-repeat center center fixed;
+    background-size: cover;
+}
+
+#credit {
+    color: whitesmoke;
+    padding: .25em;
+    font-family: monospace;
+
+}
+
+a,
+a:link,
+a:active,
+a:visited,
+a:hover {
+    color:           dodgerblue;
+    text-decoration: none;
+}
